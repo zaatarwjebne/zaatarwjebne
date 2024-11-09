@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**zaatarwjebne/zaatarwjebne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a curious learner, a tech enthusiast, and someone who enjoys blending creativity with problem-solving. I love working on projects that push my skills and let me explore new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on projects involving computer vision, machine learning, and recommender systems.
+- 🌱 I’m exploring advanced topics in machine learning, with a special interest in reinforcement learning and cognitive modeling.
+- 👯 I’m looking to collaborate on AI and cognitive science projects, particularly those involving applications in Human-Computer Interaction (HCI).
+- 💬 Ask me about AI, data science, machine learning, linguistICSand NLP or anything related to impulsivity and attention research!
+
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, Java, JavaScript, R, SQL, C++
+- **Frameworks/Libraries**: TensorFlow, Keras, XGBoost, React, Pytorch
+- **Tools**: Git, Jupyter Notebooks, Flask, Unity, ggplot2, VS Code
+- **Skills**: Machine Learning, Data Science, Computational Modeling, Reinforcement Learning, Web Development
