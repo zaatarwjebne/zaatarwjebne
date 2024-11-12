@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a curious learner, a tech enthusiast, and so
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on projects involving computer vision, machine learning, and recommender systems.
+- 🔭 I’m currently working on projects involving computer vision, machine learning, recommender systems, and react native.
 - 🌱 I’m exploring advanced topics in machine learning, with a special interest in reinforcement learning and cognitive modeling.
 - 👯 I’m looking to collaborate on AI and cognitive science projects, particularly those involving applications in Human-Computer Interaction (HCI).
 - 💬 Ask me about AI, data science, machine learning, linguistICSand NLP or anything related to impulsivity and attention research!
